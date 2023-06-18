@@ -6,7 +6,7 @@
  * Return: always o (Success)
 */
 
-int main (void)
+int main(void)
 {
 	int n = 97;
 
